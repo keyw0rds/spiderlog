@@ -1,5 +1,5 @@
 # SpiderLog
-SpiderLog - KeyLogger vCLI
+SpiderLog - KeyLogger vCLI | Author : Keyw0rds
 
 ![](https://i.ibb.co/bJJ6LHw/log.png)
 
