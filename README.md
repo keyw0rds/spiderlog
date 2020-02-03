@@ -1,7 +1,7 @@
 # SpiderLog
 SpiderLog - KeyLogger vCLI | Author : Keyw0rds
 
-![](https://i.ibb.co/bJJ6LHw/log.png)
+[![](https://i.ibb.co/bJJ6LHw/log.png)](https://streamable.com/v1k0i)
 
 How To Use?
 =
